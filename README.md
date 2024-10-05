@@ -1,2 +1,2 @@
 # del-demo
-second demo
+this is a demo for Git & Github class
